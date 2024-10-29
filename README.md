@@ -5,3 +5,9 @@
 
 <p align="left"> <a href="https://github.com/UrvishZadafiya"><img src="https://github-profile-trophy.vercel.app/?username=godhaniketan" alt="Urvish Zadafiya" /></a> </p>
 
+
+
+
+<div>
+<p><a href="https://github.com/UrvishZadafiya"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&" alt="Urvish Zadafiya" /></a></p>
+</div>
