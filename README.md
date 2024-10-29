@@ -23,8 +23,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
  <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/DotNetCore.png" height="30" alt="microsoftsqlserver"/></a>
-
-
   <a href="https://github.com/UrvishZadafiya"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
   <a href="https://github.com/UrvishZadafiya"><img width="12" /></a>
   <a href="https://github.com/UrvishZadafiya"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  /></a>
