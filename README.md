@@ -31,6 +31,12 @@
 <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Bootstrap.jpg" height="30" alt="Bootstrap"/></a>
 
 <h4 align="left"> Back End  </h4>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/DotNetCore.png" height="30" alt="microsoftsqlserver"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/NETFramework.png" height="30" alt="microsoftsqlserver"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/C-sharp.jpg" height="30" alt="microsoftsqlserver"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Node.png" height="30" alt="microsoftsqlserver"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Python.jpg" height="30" alt="microsoftsqlserver"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Blazor.png" height="30" alt="microsoftsqlserver"/></a>
 
 <h4 align="left"> Database </h4>
 
@@ -42,7 +48,7 @@
 
 
 <div align="left">
- <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/DotNetCore.png" height="30" alt="microsoftsqlserver"/></a>
+
   <a href="https://github.com/UrvishZadafiya"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
   <a href="https://github.com/UrvishZadafiya"><img width="12" /></a>
   <a href="https://github.com/UrvishZadafiya"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp"  /></a>
