@@ -20,11 +20,15 @@
 </p>
 
 <br>
-<h3 align="left">Expertise Technologie [ Software development solutions]:</h3>
+<h3 align="left">Expertise Technologie [ Software Development solutions]:</h3>
 <h4 align="left"> Front End  </h4>
- <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Angular.png" height="30" alt="microsoftsqlserver"/></a>
- <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/React.png" height="30" alt="microsoftsqlserver"/></a>
- <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Vue.png" height="30" alt="microsoftsqlserver"/></a>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Angular.png" height="30" alt="Angular"/></a>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/React.png" height="30" alt="React"/></a>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Vue.png" height="30" alt="Vue"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Typescript.png" height="30" alt="Typescript"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/JavaScript.png" height="30" alt="JavaScript"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Html5.png" height="30" alt="Html5"/></a>
+<a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Bootstrap.png" height="30" alt="Bootstrap"/></a>
 
 <h4 align="left"> Back End  </h4>
 
