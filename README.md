@@ -20,7 +20,22 @@
 </p>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Expertise Technologie [ Software development solutions]:</h3>
+<h4 align="left"> Front End  </h4>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Angular.png" height="30" alt="microsoftsqlserver"/></a>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/React.png" height="30" alt="microsoftsqlserver"/></a>
+ <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Vue.png" height="30" alt="microsoftsqlserver"/></a>
+
+<h4 align="left"> Back End  </h4>
+
+<h4 align="left"> Database </h4>
+
+<h4 align="left"> OMR  </h4>
+
+<h4 align="left"> Tools  </h4>
+
+<h4 align="left"> OtherOMR  </h4>
+
 <div align="left">
  <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/DotNetCore.png" height="30" alt="microsoftsqlserver"/></a>
   <a href="https://github.com/UrvishZadafiya"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore"  /></a>
@@ -58,8 +73,12 @@
   <a href="https://github.com/UrvishZadafiya"><img src="https://cdn.simpleicons.org/trello/0052CC" height="30" alt="trello"  /></a>
 </div>
 
-<br>
 
+
+
+
+
+<br>
 <div>
 <p><a href="https://github.com/UrvishZadafiya"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&" alt="Urvish Zadafiya" /></a></p>
 </div>
