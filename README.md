@@ -9,7 +9,7 @@
   <ul>
     <li>Dedicated software professional with 10+ years of strong hands-on experience with software architecture, design, and development.</li>
     <li>Architected, designed, developed, and deployed plenty of greenfield projects for USA, Europe, and Africa-based multibillion-dollar brands with 100% client satisfaction.</li>
-    <li>Proven record of accomplishments of consistently delivering products with very high complexity and tight deadlines.</li>
+    <li>Proven record of accomplishments of consistently delivering products with very high complexity and tight deadlines1263.</li>
     <li>Highly motivated individual with a can-do attitude and belief in leading by example.</li>
     <li>Played key developer role under various projects.</li>
     <li>Passionate about learning the latest technologies, designing, and writing software.</li>
@@ -73,12 +73,7 @@
 <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Other/Twillo.png" height="30" alt="Twillo"/></a>
 
 
-
-
-
-
-
-<br><br><br>
+<br><br>
 <div>
 <p><a href="https://github.com/UrvishZadafiya"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&" alt="Urvish Zadafiya" /></a></p>
 </div>
