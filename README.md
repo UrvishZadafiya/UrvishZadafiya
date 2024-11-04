@@ -77,11 +77,12 @@
 
 <br><br>
 <div>
-<p><a href="https://github.com/UrvishZadafiya"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&" alt="Urvish Zadafiya" /></a></p>
+<p>
+<a href="https://github.com/UrvishZadafiya"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&theme=dark&hide_border=false" alt="Urvish Zadafiya" /></a>
 </div>
 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=UrvishZadafiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UrvishZadafiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
