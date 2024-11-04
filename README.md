@@ -1,21 +1,23 @@
 <h2 align="center">Urvish Zadafiya</h2>
-<h3 align="center">Microsoft .NET | Full Stack Developer | Consultant | Freelancer | ASP.NET |  API Development | SQL Server | Node JS | Angular | React | Vue </h3>
+<h2 align="center">Microsoft .NET | Full Stack Developer | Consultant | Freelancer | ASP.NET |  API Development | SQL Server | Node JS | Angular | React | Vue </h2>
 
 <p align="right"><a href="https://github.com/UrvishZadafiya"><img src="https://komarev.com/ghpvc/?username=UrvishZadafiya&label=Profile%20views&color=0e75b6&style=flat" alt="Urvish Zadafiya" /></a></p>
 
 <p align="left"> <a href="https://github.com/UrvishZadafiya"><img src="https://github-profile-trophy.vercel.app/?username=UrvishZadafiya" alt="Urvish Zadafiya" /></a> </p>
 
 <p>
+  <h3>Software Architect and Developer | 10+ Years of Expertise</h3>
+
+  <h5>Results-driven software professional with extensive experience in software architecture, design, and development, specializing in delivering high-quality solutions for complex, high-stakes projects. Proven track record of successfully architecting, designing, and deploying greenfield projects for high-profile clients in the USA, Europe, and Africa, achieving 100% client satisfaction.<h5>
+
+  <h4>Key Strengths:</h4>
+
   <ul>
-    <li>Dedicated software professional with 10+ years of strong hands-on experience with software architecture, design, and development.</li>
-    <li>Architected, designed, developed, and deployed plenty of greenfield projects for USA, Europe, and Africa-based multibillion-dollar brands with 100% client satisfaction.</li>
-    <li>Proven record of accomplishments of consistently delivering products with very high complexity and tight deadlines.</li>
-    <li>Highly motivated individual with a can-do attitude and belief in leading by example.</li>
-    <li>Played key developer role under various projects.</li>
-    <li>Passionate about learning the latest technologies, designing, and writing software.</li>
-    <li>Detail-oriented and organized professional with a creative mindset and strong project management abilities.</li>
-    <li>Capable of working both independently and as part of dynamic project teams.</li>
-    <li>Able to convey technical concepts and designs to both technical and non-technical audiences.</li>
+    <li><b>Project Leadership: </b> Demonstrated ability to meet tight deadlines and handle intricate project demands through strong project management skills.</li>
+    <li><b>Client-Centric Development: </b> Consistently deliver complex, high-impact solutions that align with clients' visions and business objectives.</li>
+    <li><b>Technical Proficiency: </b> Well-versed in the latest technologies, continuously refining skills to maintain cutting-edge expertise.</li>
+    <li><b>Adaptable Communication: </b> Skilled at bridging technical and non-technical discussions, ensuring alignment across diverse stakeholders.</li>
+    <li><b>Collaborative Team Player: </b> Adept at working independently and collaboratively in dynamic environments, with a track record of contributing to successful team outcomes.</li>
   </ul>
 </p>
 
