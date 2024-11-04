@@ -81,10 +81,7 @@
 <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Other/Hangfire.png" height="30" alt="Hangfire"/></a>
 <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/Other/Twillo.png" height="30" alt="Twillo"/></a>
 
-
-<br><br>
-<div>
-<p>
+<div><p>
 <a href="https://github.com/UrvishZadafiya"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UrvishZadafiya&theme=dark&hide_border=false" alt="Urvish Zadafiya" /></a>
 </div>
 
