@@ -8,7 +8,7 @@
 <p>
   <h3>Software Architect and Developer | 10+ Years of Expertise</h3>
 
-  <h5>Results-driven software professional with extensive experience in software architecture, design, and development, specializing in delivering high-quality solutions for complex, high-stakes projects. Proven track record of successfully architecting, designing, and deploying greenfield projects for high-profile clients in the USA, Europe, and Africa, achieving 100% client satisfaction.<h5>
+  <h5>Results-driven software professional with extensive experience in software architecture, design, and development, specializing in delivering high-quality solutions for complex, high-stakes projects. Proven track record of successfully architecting, designing, and deploying greenfield projects for high-profile clients in the USA, Europe, Australia, Angola, etc achieving 100% client satisfaction.<h5>
 
   <h4>Key Strengths:</h4>
 
