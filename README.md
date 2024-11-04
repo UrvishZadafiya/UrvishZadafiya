@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/UrvishZadafiya"><img src="https://github-profile-trophy.vercel.app/?username=UrvishZadafiya" alt="Urvish Zadafiya" /></a> </p>
 
+<p align="left"><a href="https://github.com/UrvishZadafiya"><img src="https://github-readme-stats.vercel.app/api?username=UrvishZadafiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Urvish Zadafiya" /></a></p>
+
 <p>
   <h3>Software Architect and Developer | 10+ Years of Expertise</h3>
 
@@ -23,6 +25,11 @@
 
 <br>
 <h3 align="left">Expertise Technologie [ Software Development solutions]:</h3>
+
+
+<p align="left"><a href="https://github.com/UrvishZadafiya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrvishZadafiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Urvish Zadafiya" /></a></p>
+
+
 <h4 align="left"> Front End  </h4>
 <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/FrontEnd/Angular.png" height="30" alt="Angular"/></a>
 <a href="https://github.com/UrvishZadafiya"><img src="https://raw.githubusercontent.com/UrvishZadafiya/UrvishZadafiya/refs/heads/main/Images/FrontEnd/React.png" height="30" alt="React"/></a>
@@ -83,6 +90,5 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=UrvishZadafiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UrvishZadafiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
